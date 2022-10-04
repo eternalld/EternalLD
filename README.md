@@ -24,11 +24,12 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
 <strong>Hi, I am Eternal LD!👋 </strong>
+<strong>An undergraduate student from China. </strong>
 <strong> 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning ....
 </strong>
-<strong>An undergraduate student from China. </strong>
+
 
 </pre> 
 
