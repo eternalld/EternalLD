@@ -13,7 +13,7 @@
 <pre>
 
 <strong>Hi, I am Eternal LD!👋 </strong>
-<strong>An undergraduate student from China. </strong>
+<strong>A graduate student from China. </strong>
 <strong> 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning HCC
@@ -22,7 +22,7 @@
 
 </pre> 
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+<img width="100%" alt="game gif" src="https://github.com/eternalld/eternalld/blob/main/game.svg"/>
 
 ### ⭐️ &nbsp;Github Star
 
